@@ -1,4 +1,5 @@
 **Real-Time American Sign Language Interpreter using Transformer and LLM**
+
 A deep learning model and a real-time system to interpret isolated American Sign Language (ASL) signs and generate fluent English sentences using a hybrid architecture combining Transformer Encoders and GPT-4.
 
 📌 Project Overview
